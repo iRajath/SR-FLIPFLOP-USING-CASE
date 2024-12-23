@@ -42,8 +42,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 
-Developed by: **S Rajath**
-Register no:  **24900186**
+Developed by: &nbsp;**S Rajath** <br>
+Register no: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**24900186**
 ```
 module exp(s, r, clk, q, qbar);
   input s, r, clk;
